@@ -2,7 +2,7 @@ import React from 'react'
 import styles from './HeaderRyM.module.css'
 import Logo from '../assets/Rick-and-Morty1.png'
 import { Link } from 'react-router-dom'
-import buttonBack from '../assets/Back.png'
+import buttonBack from '../assets/RnM.png'
 
 function HeaderRyM() {
   return (
